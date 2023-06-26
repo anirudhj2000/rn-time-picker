@@ -1,0 +1,25 @@
+{
+  "name": "rn-time-picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "react-native-time-picker",
+    "react-native-date-time-picker",
+    "time-picker",
+    "time",
+    "picker",
+    "popup"
+  ],
+  "author": "Anirudh Joshi",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.1.3"
+  }
+}
